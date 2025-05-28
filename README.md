@@ -23,10 +23,6 @@ This project is a web-based application designed to handle, manage, and showcase
 - Businesses wanting to publish their product catalog online  
 - Developers seeking a Yii2-based example for product data management systems  
 
-## 🚀 Getting Started
-
-*Coming soon: Instructions for setup and deployment.*
-
 ## 📄 License
 
-*Specify your license here (e.g., MIT, GPL, etc.)*
+MIT
